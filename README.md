@@ -1,5 +1,6 @@
 # PokemonClassification
-Progetto per l'esame di Machine-Learning e applicazioni 
+Progetto per l'esame di Machine-Learning e applicazioni, università statale di Milanop, UNIMI
+
 
 Parte 1: riconoscimento dei pokemon della prima generazione (150 classi) tramite rete neurale convoluzionale (CNN)
 
