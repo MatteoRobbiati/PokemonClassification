@@ -1,7 +1,7 @@
 # PokemonClassification
-Progetto per l'esame di Machine-Learning e applicazioni, università statale di Milano, UNIMI
 
+Project done for "Machine Learning" exam in University of Milan.
+In this notebook:
 
-Parte 1: riconoscimento dei pokemon della prima generazione (150 classi) tramite rete neurale convoluzionale (CNN);
-
-Parte 2: generazione di nuove immagini di pokemon in formato (64,64,3) [RGB].
+- a multiclass (150 pokemon of the S1) classification is performed;
+- a GAN is used for generating new pokemon images.
